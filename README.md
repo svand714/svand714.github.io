@@ -2,11 +2,11 @@
 <head>
 <style>
 body {
-    background: blue;
+    background: lightgreen;
     font-family: Verdana;
 }  
 #content {
-    background: green;
+    background: blue;
     min-width: 200px;
     max-width: 500px;
     padding: 50px;
@@ -46,5 +46,3 @@ h3 {
         <h3>EDUCATION</h3>
         Marketing<br />
         Bob Jones University<br />
-</body>
-</html>
