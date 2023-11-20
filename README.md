@@ -6,7 +6,7 @@ body {
     font-family: Verdana;
 }  
 #content {
-    background: blue;
+    background: green;
     min-width: 200px;
     max-width: 500px;
     padding: 50px;
