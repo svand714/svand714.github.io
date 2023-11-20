@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-    background: lightgreen;
+    background: blue;
     font-family: Verdana;
 }  
 #content {
@@ -46,8 +46,5 @@ h3 {
         <h3>EDUCATION</h3>
         Marketing<br />
         Bob Jones University<br />
-        Example image:
-        <img src="https://cs.bju.edu/media/bju-math-division/bju-computer-science/site-assets/images/cs-logo-main.png" />
-    </div>
 </body>
 </html>
